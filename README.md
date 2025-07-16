@@ -29,6 +29,6 @@ python manage.py runserver
 
 <h3>Видео<h3>
 <video width="640" height="360" controls>
-  <source src="/presentation/clips/presentation.mp4" type="video/mp4">
+  <source src="presentation/clips/presentation.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
